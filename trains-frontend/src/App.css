@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+  padding: 1%;
+}
+
+.main-header {
+  margin: 3%;
+}
+
+.login-header {
+  margin: 3% 0 2%;
+}
+
+.alert {
+  margin: 3% 35%;
+}
+
+.form {
+  padding: 1%;
+}
+
+.link {
+  text-decoration: none;
+  color: white;
+}
+
+.logout-btn {
+  margin: 5%;
+}
+
+.content {
+  margin: 3%;
+}

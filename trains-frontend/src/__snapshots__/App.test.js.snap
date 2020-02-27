@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login renders correctly 1`] = `[Function]`;
+
+exports[`Menu renders correctly 1`] = `[Function]`;
+
+exports[`Register renders correctly 1`] = `[Function]`;
+
+exports[`TrainList renders correctly 1`] = `[Function]`;
+
+exports[`UserDetails renders correctly 1`] = `[Function]`;
